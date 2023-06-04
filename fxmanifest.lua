@@ -6,7 +6,7 @@ description 'teleports you around'
 version '1.0.0'
 
 server_scripts {
-    'commands/goto.lua',
-    'commands/summon.lua',
-    'commands/tpcoords.lua',
+    'commands/sv_goto.lua',
+    'commands/sv_summon.lua',
+    'commands/sv_tpcoords.lua',
 }
